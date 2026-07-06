@@ -1,0 +1,14 @@
+# IDE & Agent Configs
+.gemini/
+.agents/
+.system_generated/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
