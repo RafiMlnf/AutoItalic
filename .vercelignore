@@ -1,0 +1,11 @@
+# Ignore Python backend scripts for static deployment
+server.py
+detector.py
+download_dictionaries.py
+requirements.txt
+
+# Ignore IDE & Cache
+.gemini/
+.agents/
+.system_generated/
+*.log
